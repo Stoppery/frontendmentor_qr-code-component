@@ -34,5 +34,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [React](https://reactjs.org/) - JS library
 ## Author
 
-- Github - [Add your name here](https://github.com/Stoppery)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Stoppery)
+- Github - [Stoppery](https://github.com/Stoppery)
+- Frontend Mentor - [@stoppery](https://www.frontendmentor.io/profile/Stoppery)
